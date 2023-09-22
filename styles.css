@@ -129,7 +129,7 @@ section#schedule ul li {
 
 section#schedule ul li::before {
   font-family: "Font Awesome 5 Free";
-  content: "\f00c"; /* Unicode код FontAwesome для "гарного" галочки */
+  /*content: "\f00c";  Unicode код FontAwesome для "гарного" галочки */
   position: absolute;
   left: 0;
   color: #27ae60;
